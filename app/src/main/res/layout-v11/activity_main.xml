@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dip"
+    android:background="#FF000000">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_device"
+        android:textColor="#FF888888"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/val_device"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dip"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#FF33B5E5"
+        android:gravity="center"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_product"
+        android:textColor="#FF888888"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/val_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="14dip"
+        android:textSize="16sp"
+        android:textColor="#FFDDDDDD"
+        android:gravity="center"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_board"
+        android:textColor="#FF888888"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/val_board"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="14dip"
+        android:textSize="16sp"
+        android:textColor="#FFDDDDDD"
+        android:gravity="center"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_hardware"
+        android:textColor="#FF888888"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/val_hardware"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="14dip"
+        android:textSize="16sp"
+        android:textColor="#FFDDDDDD"
+        android:gravity="center"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_model"
+        android:textColor="#FF888888"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/val_model"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="14dip"
+        android:textSize="16sp"
+        android:textColor="#FFDDDDDD"
+        android:gravity="center"
+        android:typeface="monospace" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_manufacturer"
+        android:textColor="#FF888888"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/val_manufacturer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFDDDDDD"
+        android:gravity="center"
+        android:typeface="monospace" />
+
+</LinearLayout>

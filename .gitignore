@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Локальные пути к SDK - у каждого свои, в репозиторий не кладём
+local.properties
+
+# Android Studio / IntelliJ (на случай, если кто-то откроет через IDE)
+.idea/
+*.iml
+.DS_Store
+
+# Логи и временные файлы
+*.log

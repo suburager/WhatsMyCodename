@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- API 14+ (Android 4.0+) - настоящий Holo, узнаваемый стиль
+         2012-2013 годов: угловатые виджеты, тёмный фон, голубой
+         акцент. Система распознаёт его как "современную" тему
+         и не включает compat-режим с маленьким окном.
+         Обычная Theme.Holo (не NoActionBar) - системный ActionBar
+         рисует заголовок сам. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+    </style>
+</resources>

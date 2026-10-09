@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- API 3-10 (Android 1.5 - 2.3.7). Holo тогда ещё не существовал
+         (появился в 3.0/Honeycomb), поэтому здесь настоящая
+         системная Theme той эпохи - 3D-градиентные кнопки,
+         System font, характерный вид Cupcake/Donut/Eclair/Froyo/
+         Gingerbread. -->
+    <style name="AppTheme" parent="@android:style/Theme">
+    </style>
+</resources>

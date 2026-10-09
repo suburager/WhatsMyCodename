@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- API 11-13 (Android 3.0-3.2, Honeycomb) - Holo уже существует
+         с этой версии. Обычная Theme.Holo (не NoActionBar) - системный
+         ActionBar рисует заголовок сам, в layout свой заголовок больше
+         не добавляем. -->
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">What\'s My Codename?</string>
+    <string name="label_device">Device (codename):</string>
+    <string name="label_product">Product:</string>
+    <string name="label_board">Board:</string>
+    <string name="label_model">Model:</string>
+    <string name="label_manufacturer">Manufacturer:</string>
+    <string name="label_hardware">Hardware:</string>
+</resources>
